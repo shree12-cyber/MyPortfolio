@@ -156,10 +156,7 @@ function DesktopMenu({
       ))}
       <li>
         <Button
-          linkField={{
-            url: "mailto:sharmashree199@gmail.com",
-            link_type: "Web",
-          }}
+          linkField={settings.data.cta_link} // <- ignored completely
           label="email me"
         />
       </li>

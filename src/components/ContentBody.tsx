@@ -1,6 +1,6 @@
 import Bounded from "@/components/Bounded";
 import Heading from "@/components/Heading";
-import Button from "./Button";
+import VisitButton from '../components/VisitButton'
 
 type PageType = {
   uid: string;
@@ -83,7 +83,7 @@ export default async function ContentBody({ page }: { page: PageType }) {
 
           {page.link && (
             <div className="mt-8">
-              <Button
+              <VisitButton
                 linkField={{ url: page.link, link_type: "Web" }}
                 label="Visit Project"
                 showIcon={true}
