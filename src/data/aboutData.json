@@ -1,0 +1,23 @@
+{
+    "first_name": "Shree",
+    "last_name": "Sharma",
+    "description":"Hi guys ✦\nI’m Shree Sharma — a frontend developer with hands-on experience in building clean, responsive, and interactive web apps using React, and Express.js. I’ve worked on real-time chat apps, image-sharing platforms — blending performance with smooth UI/UX.\nDuring my internships, I collaborated with cross-functional teams, built scalable features, and contributed to projects that improved user engagement by up to 30%.\nI enjoy experimenting with design systems, animation, and full-stack flows — always striving to grow as a developer.\n Let’s build something cool ✨",
+    "resume": "/Resume-Shree-Sharma.pdf",
+    "Desgination":"Frontend Dev Intern",
+    "Time":"Jun 2024 – Oct 2024 ",
+    "company":"TLR Studios",
+    "Workdescription": [
+  "Contributed to the development of a production-ready frontend using React , ensuring a clean, scalable codebase and improving the overall maintainability of the project.",
+  "Worked closely with UI/UX designers, backend developers, and QA teams to implement new features and refine existing ones, resulting in a smoother and more intuitive user experience.",
+  "Created internal documentation and guidelines for TypeScript best practices, helping the team adopt consistent patterns and reduce development friction during collaborative workflows."
+],
+"TechList":{
+    "heading":"My Tech Stack",
+    "techStack" : [
+        { "tech_name": "React", "tech_color": "#61DBFB" },
+        { "tech_name": "Node", "tech_color": "#3C873A" },
+        { "tech_name": "Express", "tech_color": "#6518d5 " },
+        { "tech_name": "Mongo", "tech_color": "#4DB33D" }
+      ]
+}
+}

@@ -1,0 +1,85 @@
+[
+    
+    {
+      "uid": "Chat-AI",
+      "date":"feb-2023",
+      "data": {
+        "title": "Chat-AI",
+        "description":"Chat-AI is a Gemini-powered AI chat assistant built using the MERN stack. It supports intelligent conversations and image uploads with Cloudinary integration for storing and displaying images.",
+        "about":["Developed an interactive AI chatbot using Google Gemini API for generating human-like responses.Built with MERN stack for full-stack performance and scalability.",
+      "Integrated Cloudinary to handle image uploads and secure media storage from chat sessions.Enabled users to send text prompts as well as images for visual-based queries or suggestions.",
+      "Implemented user-friendly UI with React and Tailwind CSS, designed for real-time feedback and smooth UX.Secured backend routes and enhanced data handling with JWT-based authentication and MongoDB schema validation."
+      ],
+      "img":{
+        "img1":"/Chat-AI_1.png",
+        "img2":"/Chat-AI_2.png"
+      }
+      },
+      "tags": ["React", "Express-Js", "MongoDB","Node-js","cloudnary"],
+      "link":"https://ai-chat-tiox.onrender.com"
+    },
+    {
+      "uid": "Chat-website",
+      "date":"march-2023",
+      "data": {
+        "title": "Chat website",
+         "description":"A full-stack real-time Chat Website built using the MERN stack with Socket.io for instant messaging. Secured with JWT authentication and styled using Tailwind CSS for a modern UI.",
+        "about":["Developed a real-time chat platform using Socket.io for instant bi-directional messaging.Built with React, Node.js, Express.js, and MongoDB for scalable frontend and backend architecture.",
+      "Implemented JWT token-based authentication for secure login and protected chat access.Enabled user registration, login, and chatroom creation with real-time status updates.",
+      "Designed a responsive and clean UI using Tailwind CSS, optimized for both mobile and desktop.Stored chat history in MongoDB with timestamped messages and user metadata."
+      ],
+      "img":{
+        "img1":"/Chat_Web_1.png",
+        "img2":"/Chat_Web_2.png"
+      }
+      },
+      "tags": ["React", "Express-Js", "MongoDB","Node-js","Tailwind","Socket.io"],
+      "link":"https://mern-chat-app-zqe7.onrender.com/login"
+    },
+    {
+      "uid": "Image-Sharing-Website",
+      "date":"march-2023",
+      "data": {
+        "title": "Image Sharing Website",
+        "description":"An elegant Image Sharing Website built with React and Tailwind CSS, allowing users to upload, view, and interact with images. Integrated Google Authentication for secure access and used Sanity CMS / Stripe for content or payment management.",
+        "about":["Built a visually appealing and responsive image-sharing platform using React and Tailwind CSS.Integrated Google Sign-In using Firebase or OAuth for secure user authentication.",
+      "Enabled users to upload, browse, and like images — each tagged and categorized via Sanity CMS (or Stripe if used for payment-based features).Structured image storage with metadata (uploader, category, likes, date) for seamless content management.",
+    "Implemented dynamic routing and protected routes based on login state.Used Sanity to manage content and media in real-time."
+    ],
+    "img":{
+      "img1":"/Shareme_1.png",
+      "img2":"/Shareme_2.png"
+    }
+      },
+      "tags": ["React", "Tailwind Css","Strapie"],
+      "link":"https://shree-media-app.netlify.app/login"
+    },
+    {
+      "uid": "Fast-Wash",
+      "date":"Jan-2024",
+      "data": {
+        "title": "Fast-wash",
+        "description":"FashWash – A modern MERN-based laundry ordering platform with secure JWT authentication – currently in progress, stay tuned for the launch! 🚀",
+        "about":[
+          "Developed a full-stack laundry ordering web application using MERN Stack (MongoDB, Express, React, Node.js).Implemented user authentication and authorization using JWT tokens for secure login and protected routes.",
+          "Built admin dashboard to manage user orders and service categories.Integrated local storage & backend validations to ensure seamless data flow and user experience.",
+          "Applied RESTful API principles for structured backend communication.Used MongoDB Atlas for scalable cloud database and deployed using Render/Vercel (or your platform name)."
+        ]
+      },
+      "tags": ["React", "Express-Js", "MongoDB","TailwindCSS"]
+    },
+    {
+      "uid": "Credentials-Manager",
+      "date":"apr-2020",
+      "data": {
+        "title": "Credentials-Manager",
+        "description":"A Credentials Manager is a secure web app that allows users to store, manage, and access their login credentials using authentication and cloud storage.",
+        "about":["Built a secure credentials management app using React and Firebase Authentication.Implemented user sign-up, login, and logout functionality with email/password using Firebase Auth.",
+      "Enabled users to store, retrieve, and delete credentials (e.g., usernames, passwords) securely in Firebase Firestore.Protected sensitive routes using React Router.",
+      "Used Firebase Firestore for real-time data syncing and Firebase Rules to control data access.Designed a clean and responsive UI using Tailwind CSS."
+      ]
+      },
+      "tags": ["React", "TailwindCSS", "Firebase"]
+    }
+  ]
+  

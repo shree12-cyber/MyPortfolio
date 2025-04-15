@@ -1,0 +1,29 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Pariatur enim commodo aute velit laborum culpa ut officia nulla officia."
+						}
+					}
+				]
+			},
+			"project_link": {
+				"key": "84b344e4-8b84-41a6-9300-63634e8435a6",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com",
+					"text": "not"
+				}
+			}
+		},
+		"items": []
+	}
+]

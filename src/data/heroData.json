@@ -1,0 +1,11 @@
+{
+    "first_name": "Shree",
+    "last_name": "Sharma",
+    "tag_line": "Full-Stack Developer",
+    "email": "sharmashree199@gmail.com",
+    "socials": {
+      "github": "https://github.com/shree12-cyber",
+      "linkedin": "https://www.linkedin.com/in/shree-sharma-558b22218/"
+    },
+    "profile_image": "/images/profile.jpg"
+  }
